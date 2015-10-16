@@ -1,5 +1,5 @@
-# BS - JS Code Guidelines
-## The purpose of this document is to provide general coding and styling guidelines that should be followed while producing javascript code in BS Company. There may be some exceptions and situations that require shift from these rules but in general these rules should be followed as much as possible.
+# JS Code Guidelines
+## The purpose of this document is to provide general coding and style guidelines that should be followed while producing javascript code. There could be some exceptions and situations that require shift from these rules but in general these rules should be followed as much as possible in order to have consistent, pragmatic code.
 
 ### Indentation
 Each indentation level is made up of 4 spaces. Text editor should be configured to insert spaces when the tab is pressed. If you break a line, next line is indented for 2 levels or 8 spaces.
